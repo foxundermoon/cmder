@@ -5,3 +5,6 @@ pwd=cd
 clear=cls
 history=cat %CMDER_ROOT%\config\.history
 unalias=alias /d $1
+sshvps=ssh root@vps.vvfox.com -p 26352
+sss=echo sss  
+dd=echo dddddd  
