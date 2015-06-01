@@ -6,3 +6,7 @@ clear=cls
 history=cat %CMDER_ROOT%\config\.history
 unalias=alias /d $1
 gca=git commit -a -m $*  
+gco=git checkout $*  
+gpush=git push origin $*  
+gpull=git pull origin $*  
+cdgo=D: $T cd D:\Workspace\go  
